@@ -1,0 +1,10 @@
+asgiref==3.5.2
+autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
+certifi==2022.12.7
+dj-database-url==1.0.0
+Django==4.1.4
+gunicorn @ file:///home/conda/feedstock_root/build_artifacts/gunicorn_1666818649946/work
+psycopg2-binary==2.9.5
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+sqlparse==0.4.3
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
